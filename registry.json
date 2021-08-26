@@ -5,9 +5,9 @@
   },
   "registry": {
      "did:web:digitalcredentials.github.io": {
-        "name": "MIT",
+        "name": "MIT Open Learning",
         "location": "Cambridge, MA, USA",
-        "url": "https://web.mit.edu"
+        "url": "https://openlearning.mit.edu"
      },
      "did:web:digitalcredentials.odl.mit.edu": {
         "name": "MIT xPRO",
