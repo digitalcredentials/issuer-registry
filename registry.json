@@ -4,10 +4,15 @@
      "updated": "2021-06-24T01:06:23+0000"
   },
   "registry": {
+     "did:web:digitalcredentials.github.io": {
+        "name": "MIT",
+        "location": "Cambridge, MA, USA",
+        "url": "https://web.mit.edu"
+     },
      "did:web:digitalcredentials.odl.mit.edu": {
         "name": "MIT xPRO",
         "location": "Cambridge, MA, USA",
-        "url": "https://xpro.mit.edu/"
+        "url": "https://xpro.mit.edu"
      },
      "did:web:c21u.gatech.edu": {
         "name": "Georgia Tech Center for 21st Century Universities",
