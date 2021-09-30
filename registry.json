@@ -23,6 +23,11 @@
         "name": "Georgia Tech Center for 21st Century Universities",
         "location": "Atlanta, GA, USA",
         "url": "https://c21u.gatech.edu"
+     },
+     "did:web:credentials.mcmaster.ca": {
+        "name": "McMaster University Digital Credentialing Pilot",
+        "location": "Hamilton, ON, Canada",
+        "url": "https://credentials.mcmaster.ca"
      }
   }
 }
