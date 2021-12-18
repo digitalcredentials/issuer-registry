@@ -14,6 +14,16 @@
         "location": "Cambridge, MA, USA",
         "url": "https://digitalcredentials.github.io/playground"
      },
+     "did:key:z6Mkn6E3RLksUuArW6aPXWY6n9Wr5yhjTLEk7vUP448rmj7E": {
+        "name": "MIT xPRO",
+        "location": "Cambridge, MA, USA",
+        "url": "https://xpro.mit.edu"
+     },
+     "did:key:z6MkiUrQooGc3QBsYoDvwGtEdHTaCsaD4zdAyZJsiKr8Lkss": {
+        "name": "MIT xPRO RC",
+        "location": "Cambridge, MA, USA",
+        "url": "https://rc.xpro.mit.edu"
+     },
      "did:web:digitalcredentials.odl.mit.edu": {
         "name": "MIT xPRO",
         "location": "Cambridge, MA, USA",
