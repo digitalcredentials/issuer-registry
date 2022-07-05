@@ -47,6 +47,11 @@
     "did:key:z6MkqanD5cmEVf154z5xExoxNKENAzVr3gdPo4wD2R2aCUzj": {
       "name": "Jobs for the Future (JFF) Sandbox Issuer",
       "url": "https://jff.org"
+    },
+    "did:web:dibiho.org:TUM.Test": {
+      "name": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.it.tum.de/it/dibiho/"
     }
   }
 }
