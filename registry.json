@@ -48,5 +48,9 @@
       "name": "Jobs for the Future (JFF) Sandbox Issuer",
       "url": "https://jff.org"
     }
+    "did:web:staging.openhpi.de": {
+      "name": "openHPI",
+      "location": "Potsdam, Germany",
+      "url": "https://staging.openhpi.de"
   }
 }
