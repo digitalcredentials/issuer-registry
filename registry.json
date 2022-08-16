@@ -48,6 +48,10 @@
       "name": "Jobs for the Future (JFF) Sandbox Issuer",
       "url": "https://jff.org"
     },
+    "did:key:z6MkpMKDNykeb9hSQkz8RWCRrqHoo3y56gQb3Lj78xWgkNZh": {
+      "name": "Jobs for the Future (JFF) Sandbox Issuer (DCC hosted)",
+      "url": "https://jff.org"
+    },
     "did:web:dibiho.org:TUM.Test": {
       "name": "Technical University of Munich",
       "location": "Munich, Germany",
