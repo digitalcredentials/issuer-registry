@@ -52,12 +52,12 @@
       "name": "Jobs for the Future (JFF) Sandbox Issuer (DCC hosted)",
       "url": "https://jff.org"
     },
-    "did:web:dibiho.org:TUM.Test": {
+    "did:web:dibiho.org:TUM": {
       "name": "Technical University of Munich",
       "location": "Munich, Germany",
       "url": "https://www.it.tum.de/it/dibiho/"
     },
-    "did:web:staging.openhpi.de": {
+    "did:web:dibiho.org:HPI": {
       "name": "openHPI",
       "location": "Potsdam, Germany",
       "url": "https://staging.openhpi.de"
