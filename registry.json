@@ -19,6 +19,11 @@
       "location": "Cambridge, MA, USA",
       "url": "https://digitalcredentials.github.io/playground"
     },
+    "did:key:z6MkpMKDNykeb9hSQkz8RWCRrqHoo3y56gQb3Lj78xWgkNZh": {
+      "name": "College Unbound",
+      "url": "https://collegeunbound.edu",
+      "location": "Providence, RI"
+    },
     "did:key:z6Mkn6E3RLksUuArW6aPXWY6n9Wr5yhjTLEk7vUP448rmj7E": {
       "name": "MIT xPRO",
       "location": "Cambridge, MA, USA",
@@ -52,10 +57,20 @@
       "name": "Jobs for the Future (JFF) Sandbox Issuer (DCC hosted)",
       "url": "https://jff.org"
     },
+    "did:web:dibiho.org:TUM": {
+      "name": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.it.tum.de/it/dibiho/"
+    },
     "did:web:dibiho.org:TUM.Test": {
       "name": "Technical University of Munich",
       "location": "Munich, Germany",
       "url": "https://www.it.tum.de/it/dibiho/"
+    },
+    "did:web:dibiho.org:HPI": {
+      "name": "openHPI",
+      "location": "Potsdam, Germany",
+      "url": "https://staging.openhpi.de"
     },
     "did:web:staging.openhpi.de": {
       "name": "openHPI",
