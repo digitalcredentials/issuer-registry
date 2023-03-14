@@ -76,6 +76,11 @@
       "name": "openHPI",
       "location": "Potsdam, Germany",
       "url": "https://staging.openhpi.de"
+    },
+    "did:key:z6MkpcJENgsDNoVct5MnzM49sydB35GvewXEdJeWdy68yi4j":{
+      "name":"San José City College",
+      "location":"San Jose, CA, USA",
+      "url":"https://www.sjcc.edu"
     }
   }
 }
