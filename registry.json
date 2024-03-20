@@ -81,6 +81,11 @@
       "name":"San José City College",
       "location":"San Jose, CA, USA",
       "url":"https://www.sjcc.edu"
+    },
+    "did:key:z6MkoowWdLogChc6mRp18YcKBd2yYTNnQLeHdiT73wjL1h6z": {
+      "name": "Trusted Learner Network (TLN) Unconference Issuer",
+      "location": "Tempe, AZ, USA",
+      "url": "https://tln.asu.edu/"
     }
   }
 }
