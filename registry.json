@@ -86,6 +86,15 @@
       "name": "Trusted Learner Network (TLN) Unconference Issuer",
       "location": "Tempe, AZ, USA",
       "url": "https://tln.asu.edu/"
-    }
+    },
+     "did:key:z6MkoowWdLogChc6mRp18YcKBd2yYTNnQLeHdiT73wjL1h6z": {
+      "name": "Trusted Learner Network (TLN) Unconference Issuer",
+      "location": "Tempe, AZ, USA",
+      "url": "https://tln.asu.edu/"
+    },
+    "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx": {
+      "name": "Digital Promise",
+      "location": "Washington, D.C., USA",
+      "url": "https://digitalpromise.org/"
   }
 }
