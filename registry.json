@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2020-12-02T02:32:16+0000",
-    "updated": "2022-05-25T12:40:00+0000"
+    "updated": "2022-07-17T21:42:56+0000"
   },
   "registry": {
     "did:key:z6Mktpn6cXks1PBKLMgZH2VaahvCtBMF6K8eCa7HzrnuYLZv": {
@@ -87,14 +87,15 @@
       "location": "Tempe, AZ, USA",
       "url": "https://tln.asu.edu/"
     },
-     "did:key:z6MkoowWdLogChc6mRp18YcKBd2yYTNnQLeHdiT73wjL1h6z": {
-      "name": "Trusted Learner Network (TLN) Unconference Issuer",
-      "location": "Tempe, AZ, USA",
-      "url": "https://tln.asu.edu/"
-    },
     "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx": {
       "name": "Digital Promise",
       "location": "Washington, D.C., USA",
       "url": "https://digitalpromise.org/"
+    },
+    "did:web:participate.community": {
+      "name": "Participate, Inc",
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://www.participate.com"
+    }
   }
 }
