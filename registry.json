@@ -87,6 +87,11 @@
       "location": "Tempe, AZ, USA",
       "url": "https://tln.asu.edu/"
     },
+    "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx": {
+      "name": "Digital Promise",
+      "location": "Washington, D.C., USA",
+      "url": "https://digitalpromise.org/"
+    },
     "did:web:participate.community": {
       "name": "Participate, Inc",
       "location": "Chapel Hill, NC, USA",
