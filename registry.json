@@ -96,6 +96,11 @@
       "name": "Participate, Inc",
       "location": "Chapel Hill, NC, USA",
       "url": "https://www.participate.com"
+    },
+    "did:key:z6MkmZYh1qm9S4MLYdrue8z6TSA2XVe9Zi49h4KRgASwbQf1": {
+      "name": "MIT Jameel World Education Lab",
+      "location": "Cambridge, MA, USA",
+      "url": "https://jwel.mit.edu"
     }
   }
 }
