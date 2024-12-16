@@ -87,7 +87,12 @@
       "location": "Tempe, AZ, USA",
       "url": "https://tln.asu.edu/"
     },
-    "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx": {
+    "did:key:z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv": {
+      "name": "Digital Promise Development",
+      "location": "Washington, D.C., USA",
+      "url": "https://digitalpromise.org/"
+    },
+    "did:key:z6MkkAAkEonJCyLYi1fLy2g59JqJqWCUdo5FMiNExgewngCT": {
       "name": "Digital Promise",
       "location": "Washington, D.C., USA",
       "url": "https://digitalpromise.org/"
